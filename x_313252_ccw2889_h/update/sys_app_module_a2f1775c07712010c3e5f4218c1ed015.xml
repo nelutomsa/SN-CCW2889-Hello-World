@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="CCW2889 Hello World">66f13b1807712010c3e5f4218c1ed0f0</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Message</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 15:26:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a2f1775c07712010c3e5f4218c1ed015</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Message</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CCW2889 Hello World" source="x_313252_ccw2889_h">675e2b9807712010c3e5f4218c1ed07d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW2889 Hello World">675e2b9807712010c3e5f4218c1ed07d</sys_scope>
+        <sys_update_name>sys_app_module_a2f1775c07712010c3e5f4218c1ed015</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 15:26:20</sys_updated_on>
+        <timeline_page/>
+        <title>Message</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

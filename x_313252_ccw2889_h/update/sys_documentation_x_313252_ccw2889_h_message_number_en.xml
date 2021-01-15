@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_313252_ccw2889_h_message">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_313252_ccw2889_h_message</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-15 15:25:25</sys_created_on>
+            <sys_id>0dc1b35c07712010c3e5f4218c1ed0d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="CCW2889 Hello World" source="x_313252_ccw2889_h">675e2b9807712010c3e5f4218c1ed07d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CCW2889 Hello World">675e2b9807712010c3e5f4218c1ed07d</sys_scope>
+            <sys_update_name>sys_documentation_x_313252_ccw2889_h_message_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-15 15:25:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
